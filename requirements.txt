@@ -1,0 +1,4 @@
+numpy==1.19.3
+scipy
+# scikit-learn # for python 3.9 try: pip install --pre --extra-index https://pypi.anaconda.org/scipy-wheels-nightly/simple scikit-learn
+matplotlib
