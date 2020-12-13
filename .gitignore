@@ -1,2 +1,4 @@
 /env
 /simple_dnn/__pycache__
+/dist
+/easy_dnn.egg-info

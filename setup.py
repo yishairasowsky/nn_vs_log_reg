@@ -8,10 +8,10 @@ setuptools.setup(
     version="0.0.1",
     author="Yishai Rasowsky",
     author_email="yishairasowsky@gmail.com",
-    description="An easy way to see a simple deep neural net outperform a logistic regression classifier.",
+    description="An easy way to show how a simple deep neural net outperforms a logistic regression classifier.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/yishairasowsky/nn_vs_log_reg",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
